@@ -16,6 +16,17 @@ Team Members :
 
 ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png)
 
+## List of Components
+| Item | Quantity |
+| ----------- | ----------- |
+| ESP-32 Cam | 1 |
+| SG90 Micro Servo Motor | 1 |
+| DC GEARED MOTOR 1:120 | 1 |
+| DC GEARED MOTOR 1:120 | 2 |
+| 2S LiPo Battery | 2 (Connected in Series) |
+| XL6009E1 Step-Up Adjustable DC-DC Switching Boost Converter | 1 |
+
+
 # Software Configuration
 
 ## Software Setup
