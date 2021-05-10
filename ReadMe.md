@@ -16,8 +16,6 @@ Team Members :
 
 ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png)
 
-[List of Components](https://www.notion.so/0d2a1703a1f74ff1b30ac4c3d93e549b)
-
 # Software Configuration
 
 ## Software Setup
