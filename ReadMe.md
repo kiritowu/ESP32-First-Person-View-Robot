@@ -88,12 +88,4 @@ Team Members :
 
 1. Unplug the batteries.
 2. Store the batteries at 7.6V in a controlled environment for each battery.
-3. Do not drop or puncture any components and handle it with love and care <3.
-
-# References
-
-# Codes
-
-[app_httpd.cpp](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/app_httpd.cpp)
-
-[esp32cam_car.ino](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/esp32cam_car.ino)
+3. Do not drop or puncture any components and handle it with love and care.
