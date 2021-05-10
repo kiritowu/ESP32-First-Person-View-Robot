@@ -1,5 +1,3 @@
-# First Person View Robot Documentation
-
 # First Person View Robot by SP-RITE
 
 Title : First Person View Robot
@@ -11,6 +9,11 @@ Team Members :
 1. Wong Zhao Wu (Project Leader & Software Manager)
 2. Nur 'Arifah binte Mohd Shahri  (Modelling & Electronics Manager)
 3. Ye Ye Taut (Hardware Manager)
+
+# Demonstration
+
+![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/FPV-Demo.gif](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/FPV-Demo.gif)
+
 
 # Electronics & Hardware Configuration
 
