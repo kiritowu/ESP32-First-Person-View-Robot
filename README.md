@@ -26,7 +26,7 @@ Team Members :
 | SG90 Micro Servo Motor | 1 |
 | L298N Motor Driver Module | 1 |
 | DC GEARED MOTOR 1:120 | 2 |
-| 2S 25C Batteries | 2 (Connected in Series) |
+| 2S 25C LiPo Batteries | 2 (Connected in Series) |
 | XL6009E1 Step-Up Adjustable DC-DC Switching Boost Converter | 1 |
 
 
