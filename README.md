@@ -12,12 +12,12 @@ Team Members :
 
 # Demonstration
 
-![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/FPV-Demo.gif](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/FPV-Demo.gif)
+![assets/FPV-Demo.gif](assets/FPV-Demo.gif)
 
 
 # Electronics & Hardware Configuration
 
-![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled.png)
+![assets/Untitled.png](assets/Untitled.png)
 
 ## List of Components
 | Item | Quantity |
@@ -38,20 +38,20 @@ Team Members :
 2. Install ESP32 Add-on in Arduino IDE by following steps below:
     1. Go to File > Preference > Additional Boards Manager URLs
 
-    ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%201.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%201.png)
+    ![assets/Untitled%201.png](assets/Untitled%201.png)
 
     2. Paste the link: [https://dl.espressif.com/dl/package_esp32_index.json](https://dl.espressif.com/dl/package_esp32_index.json) into the text field.
 
     3. Tools>Board>Boards Manager
 
-    ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%202.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%202.png)
+    ![assets/Untitled%202.png](assets/Untitled%202.png)
 
     4. Click Install
 
 3. Boot ESP32-Cam up into flash mode with the configuration below.
 (*In our case, we uses an Arduino Genuino Uno to upload our code into the ESP32-Cam board but theoretically any FTDI programmer would do the job*)
 
-    ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%203.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%203.png)
+    ![assets/Untitled%203.png](assets/Untitled%203.png)
 
     *Make Sure GPIO 0 is connected to Ground (Blue Wire) to boot ESP32-Cam into flashing mode.
 
@@ -59,7 +59,7 @@ Team Members :
 
 4. Open the source code folder and configure Arduino IDE into following setup:
 
-    ![First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%204.png](First%20Person%20View%20Robot%20Documentation%2077f1a5deff0344c2b96dc75bc3dfc474/Untitled%204.png)
+    ![assets/Untitled%204.png](assets/Untitled%204.png)
 
     - Board: "ESP 32 Wrover Module"
     - Upload Speed: "115200"
